@@ -17,3 +17,4 @@ This project analyzes an airline ticket dataset from Kaggle to identify pricing 
 1. install pandas
 2. import the data into jupyter notebook.
 3. do the analysis(EDA, Insights)
+<img width="956" height="581" alt="distance per usd" src="https://github.com/user-attachments/assets/def85d8e-c6cb-49ac-9136-fff7b23c19a0" />
